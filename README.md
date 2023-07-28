@@ -1,11 +1,18 @@
-Project Title : Week 2
+# Project Title : Week 2
 
-Project Description
+## Project Description
 
-Install instructions
+## Install instructions
 
-Run instructions
+## Run instructions
+ ## Table
 
-Week 1    Javascript and Nodeks
-Week 2    Code Version Control
-Week 3    NodeJS as a Server
+    
+
+Weeks | Topics
+------------ | -------------
+Week 1 | Javascript and Nodeks
+Week 2 | Code Version Control
+
+Week 3 |   NodeJS as a Server
+
